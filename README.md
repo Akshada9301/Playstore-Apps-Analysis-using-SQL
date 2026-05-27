@@ -17,10 +17,9 @@ Performed preprocessing and cleaning on the raw dataset using Python.
 
 Tasks performed:
 - Removed null and duplicate values
-- Cleaned rating and review columns
+- Cleaned Installs,Reviews and Price columns
 - Converted data types
 - Handled missing data
-- Processed genre columns
 - Prepared structured dataset for SQL analysis
 
 ### Step 2 – Database Analysis Using SQL
