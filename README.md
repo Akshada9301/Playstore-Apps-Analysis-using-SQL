@@ -38,6 +38,11 @@ The dataset contains details about mobile applications such as:
 - Type (Free/Paid)
 - Price
 - Genres
+- Size
+- Content Rating
+- Last_Updated
+- Current_Ver
+- Android_Ver
 
 ---
 
